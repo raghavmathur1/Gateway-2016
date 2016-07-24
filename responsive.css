@@ -1,0 +1,47 @@
+@media(max-width:900px )
+{
+	.right
+	{
+		display: none;
+	}
+
+	.left
+	{
+		width:100% !important;
+		margin-left:0 !important ;
+		padding-left:0 !important ;
+	}
+
+	.topbar
+	{
+		display: inline;
+		font-family: 'Bree Serif', serif;
+		font-size:0.8em ;
+	}
+
+	.imagDiv img
+	{
+		width:65% !important;
+		height: auto; 
+		padding-top:15px ;
+		transition:all ease 0.3s ;
+	}
+
+	.head1
+	{
+		padding-top:100px ;
+	}
+
+	.text
+	{
+		margin-top:15px ;
+	}
+	.read
+	{
+		display: none !important;
+	}
+	.show
+	{
+		display:none !important;
+	}
+}
